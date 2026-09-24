@@ -1,0 +1,14 @@
+interface:
+  display_name: Company Board of Five
+  short_description: Four researched advisers, one accountable decision
+  default_prompt: Use $company-board-of-five to pressure-test my business or creative
+    idea and make a decision.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: false
